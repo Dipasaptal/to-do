@@ -1,0 +1,47 @@
+.app-container {
+  margin: 20px;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+button {
+  margin: 5px;
+  padding: 10px;
+}
+
+.task-list {
+  margin-top: 20px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  background-color: rgb(195, 145, 200);
+}
+
+table th, table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+  background-color: rgb(225, 156, 216);
+}
+
+.task-form {
+  max-width: 500px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+ 
+}
+
+.task-form label {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.task-form input, .task-form select, .task-form textarea {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 20px;
+}
+
